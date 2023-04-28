@@ -7,5 +7,5 @@ The open-source Matlab package MDS is the numerical implementation of the multip
 To be updated...
 
 ## Cite
-If you find this package useful and use it for research purposes, please cite the following papers:
+If you find this package useful and use it for research purposes, please cite the following paper:
 1. W. Guo, Z. Cai, Z. Xiong, W, Chen, and Y. Chen, ``Efficient and accurate numerical-projection of electromagnetic multipoles for arbitrary scattering objects,'' Opt. Express XXX
